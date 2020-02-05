@@ -43,12 +43,6 @@ let g:floaterm_keymap_toggle = '<F10>'
 
 ## Configurations
 
-#### **`g:floaterm_type`**
-
-- Available: `'floating'`(neovim only), `'normal'`(vim8 and neovim)
-
-- Default: `'floating'`
-
 #### **`g:floaterm_width`**
 
 - Type: `int` (number of columns) or `float` (between 0 and 1). If `float`, the width is relative to `&columns`.
